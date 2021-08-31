@@ -1,0 +1,1 @@
+This is kuba-lekki's first git project!
